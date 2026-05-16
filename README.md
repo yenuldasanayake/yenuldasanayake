@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Yenul 👋
 
-I'm an 18-year-old student from Sri Lanka, self-learning programming and preparing for my engineering path. Instead of just copy-pasting code or chasing flashy frameworks, I'm focused on actually understanding core logic, clean problem-solving, and building things from the ground up. 
+I'm a student from Sri Lanka, self-learning programming and preparing for my engineering path. Instead of just copy-pasting code or chasing flashy frameworks, I'm focused on actually understanding core logic, clean problem-solving, and building things from the ground up. 
 
 Right now, I'm diving deep into Kotlin and using a lightweight Linux setup to keep my workflow fast and efficient.
 
@@ -28,7 +28,7 @@ Right now, I'm diving deep into Kotlin and using a lightweight Linux setup to ke
 ### What I'm Working On
 * Breaking down fundamental data structures and object-oriented logic.
 * Writing simple automation scripts to streamline my local environment.
-* Balancing my code journey with self-studying advanced physics and math.
+* Balancing my code journey with self-studying advanced physics, chemistry and math.
 
 ---
-*“Simplicity is the soul of efficiency.”*
+*“Striving for code that is simple to read, easy to maintain, and fast by default.”*
