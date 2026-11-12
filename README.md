@@ -1,3 +1,3 @@
-Hi im yenul
-I love to self study and understand it by self
-currently learning rust by my self using official rust book
+Hi Im Yenul,
+I love to self study and understand it by myself,
+currently learning rust by myself through official rust book
